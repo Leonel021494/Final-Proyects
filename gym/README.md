@@ -1,0 +1,7 @@
+La cadena de gimnasios Model Fitness está desarrollando una estrategia de interacción con clientes basada en datos analíticos. Uno de los problemas más comunes que enfrentan los gimnasios y otros servicios es la pérdida de clientes. Identificar si un cliente ha dejado de utilizar los servicios no siempre es sencillo. Se puede calcular la pérdida en función de las personas que cancelan sus cuentas o no renuevan sus contratos, pero a veces no es evidente que un cliente se haya marchado, ya que pueden hacerlo de manera sutil.
+
+Los indicadores de pérdida varían según el sector. Por ejemplo, si un cliente compra en una tienda en línea de manera irregular pero constante, no se puede concluir que ha dejado de ser cliente. Sin embargo, si no ha interactuado con un canal que se actualiza diariamente durante dos semanas, esto puede ser una señal de que ha perdido interés.
+
+En el contexto de un gimnasio, es razonable asumir que un cliente se ha marchado si no asiste durante un mes. Aunque podría estar de vacaciones y retomar sus visitas al regresar, este no es un caso típico. Generalmente, si un cliente se inscribe, asiste varias veces y luego deja de venir, es poco probable que regrese.
+
+Para abordar este problema, Model Fitness ha digitalizado varios de sus perfiles de clientes con el objetivo de analizarlos y desarrollar una estrategia efectiva de retención. Tu tarea será realizar este análisis y proponer una estrategia que ayude a reducir la cancelación de membresías y mejorar la fidelización de los clientes
