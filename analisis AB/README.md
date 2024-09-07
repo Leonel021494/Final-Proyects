@@ -1,4 +1,16 @@
-Instacart es una plataforma de entregas de comestibles donde la clientela puede registrar un pedido y hacer que se lo entreguen, similar a Uber Eats y Door Dash.
-El conjunto de datos que te hemos proporcionado tiene modificaciones del original. Redujimos el tamaño del conjunto para que tus cálculos se hicieran más rápido e introdujimos valores ausentes y duplicados. Tuvimos cuidado de conservar las distribuciones de los datos originales cuando hicimos los cambios.
+Objetivo del Proyecto
+El objetivo principal del proyecto fue analizar los datos de pedidos para identificar tendencias clave en el comportamiento de compra de los clientes. Se buscó obtener información sobre qué productos suelen ser añadidos primero al carrito, la frecuencia de compra de cada producto, los días y horarios con mayor actividad de ventas, y la ubicación de los productos dentro de los pedidos.
 
-Debes completar tres pasos. Para cada uno de ellos, escribe una breve introducción que refleje con claridad cómo pretendes resolver cada paso, y escribe párrafos explicatorios que justifiquen tus decisiones al tiempo que avanzas en tu solución.  También escribe una conclusión que resuma tus hallazgos y elecciones.
+Códigos Utilizados
+A continuación, un resumen de los principales códigos utilizados para resolver el problema:
+
+Carga de datos: Se realizó la carga y exploración de los datos, limpiando información duplicada y eliminando valores nulos. Esto permitió tener una base de datos precisa para el análisis.
+Análisis de los productos más añadidos al carrito: Se realizó un análisis para identificar cuáles eran los primeros productos añadidos al carrito, utilizando groupby para agrupar los datos por ID de orden y seleccionando los primeros productos.
+Visualización: Se generaron gráficos para facilitar la interpretación de los resultados. Se utilizaron bibliotecas como matplotlib y seaborn para crear representaciones visuales que hicieran más fácil la comprensión de los datos.
+Solución del Proyecto
+El análisis permitió obtener los siguientes resultados clave:
+
+Productos más frecuentemente añadidos al carrito: Se identificaron los 20 productos más comunes que actúan como el "gancho" inicial en las compras.
+Análisis de frecuencias: Se observaron tendencias de compra en función del horario y los días de la semana.
+Limpieza de datos: Se eliminó información duplicada y se imputaron valores nulos, garantizando que los resultados del análisis fueran precisos.
+En general, el proyecto logró proporcionar información valiosa sobre el comportamiento de los clientes y el desempeño de los productos, lo que puede ser utilizado para mejorar la estrategia de marketing y la gestión de inventarios. ​
